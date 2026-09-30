@@ -1,0 +1,6 @@
+{
+  "name": "SnackBite Pre-Booking & Payments",
+  "description": "Quick snacks pre-booking for Campa, Egg Rice, Biryani, Coffee, and Ice Cream with instant Razorpay and QR payments to 7338494643.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
